@@ -1,0 +1,19 @@
+PODS:
+  - SVPullToRefresh (0.4.1)
+
+DEPENDENCIES:
+  - SVPullToRefresh (from `https://github.com/jfl913/SVPullToRefresh`)
+
+EXTERNAL SOURCES:
+  SVPullToRefresh:
+    :git: https://github.com/jfl913/SVPullToRefresh
+
+CHECKOUT OPTIONS:
+  SVPullToRefresh:
+    :commit: 8dfe0924547c119ab15c2b6a1b2a34639b7f8558
+    :git: https://github.com/jfl913/SVPullToRefresh
+
+SPEC CHECKSUMS:
+  SVPullToRefresh: 61a0e4bd12bd6f8e3465909810b0fbeb1a28d5f2
+
+COCOAPODS: 0.35.0

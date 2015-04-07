@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_CollectionViewInfiniteScrolling_SVPullToRefresh : NSObject
+@end
+@implementation PodsDummy_Pods_CollectionViewInfiniteScrolling_SVPullToRefresh
+@end

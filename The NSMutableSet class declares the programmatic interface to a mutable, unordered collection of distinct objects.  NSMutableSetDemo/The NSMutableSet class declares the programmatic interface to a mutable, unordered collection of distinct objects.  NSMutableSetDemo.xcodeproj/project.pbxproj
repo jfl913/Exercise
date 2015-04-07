@@ -1,0 +1,427 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		018B0F3B1AC3A53600BDF53F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 018B0F3A1AC3A53600BDF53F /* main.m */; };
+		018B0F3E1AC3A53600BDF53F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 018B0F3D1AC3A53600BDF53F /* AppDelegate.m */; };
+		018B0F411AC3A53600BDF53F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 018B0F401AC3A53600BDF53F /* ViewController.m */; };
+		018B0F441AC3A53600BDF53F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 018B0F421AC3A53600BDF53F /* Main.storyboard */; };
+		018B0F461AC3A53600BDF53F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 018B0F451AC3A53600BDF53F /* Images.xcassets */; };
+		018B0F491AC3A53600BDF53F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 018B0F471AC3A53600BDF53F /* LaunchScreen.xib */; };
+		018B0F551AC3A53600BDF53F /* The_NSMutableSet_class_declares_the_programmatic_interface_to_a_mutable__unordered_collection_of_distinct_objects___NSMutableSetDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 018B0F541AC3A53600BDF53F /* The_NSMutableSet_class_declares_the_programmatic_interface_to_a_mutable__unordered_collection_of_distinct_objects___NSMutableSetDemoTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		018B0F4F1AC3A53600BDF53F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 018B0F2D1AC3A53600BDF53F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 018B0F341AC3A53600BDF53F;
+			remoteInfo = "The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		018B0F351AC3A53600BDF53F /* The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		018B0F391AC3A53600BDF53F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		018B0F3A1AC3A53600BDF53F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		018B0F3C1AC3A53600BDF53F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		018B0F3D1AC3A53600BDF53F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		018B0F3F1AC3A53600BDF53F /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		018B0F401AC3A53600BDF53F /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		018B0F431AC3A53600BDF53F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		018B0F451AC3A53600BDF53F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		018B0F481AC3A53600BDF53F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		018B0F4E1AC3A53600BDF53F /* The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemoTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		018B0F531AC3A53600BDF53F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		018B0F541AC3A53600BDF53F /* The_NSMutableSet_class_declares_the_programmatic_interface_to_a_mutable__unordered_collection_of_distinct_objects___NSMutableSetDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "The_NSMutableSet_class_declares_the_programmatic_interface_to_a_mutable__unordered_collection_of_distinct_objects___NSMutableSetDemoTests.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		018B0F321AC3A53600BDF53F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		018B0F4B1AC3A53600BDF53F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		018B0F2C1AC3A53600BDF53F = {
+			isa = PBXGroup;
+			children = (
+				018B0F371AC3A53600BDF53F /* The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo */,
+				018B0F511AC3A53600BDF53F /* The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemoTests */,
+				018B0F361AC3A53600BDF53F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		018B0F361AC3A53600BDF53F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				018B0F351AC3A53600BDF53F /* The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo.app */,
+				018B0F4E1AC3A53600BDF53F /* The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemoTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		018B0F371AC3A53600BDF53F /* The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo */ = {
+			isa = PBXGroup;
+			children = (
+				018B0F3C1AC3A53600BDF53F /* AppDelegate.h */,
+				018B0F3D1AC3A53600BDF53F /* AppDelegate.m */,
+				018B0F3F1AC3A53600BDF53F /* ViewController.h */,
+				018B0F401AC3A53600BDF53F /* ViewController.m */,
+				018B0F421AC3A53600BDF53F /* Main.storyboard */,
+				018B0F451AC3A53600BDF53F /* Images.xcassets */,
+				018B0F471AC3A53600BDF53F /* LaunchScreen.xib */,
+				018B0F381AC3A53600BDF53F /* Supporting Files */,
+			);
+			path = "The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo";
+			sourceTree = "<group>";
+		};
+		018B0F381AC3A53600BDF53F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				018B0F391AC3A53600BDF53F /* Info.plist */,
+				018B0F3A1AC3A53600BDF53F /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		018B0F511AC3A53600BDF53F /* The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemoTests */ = {
+			isa = PBXGroup;
+			children = (
+				018B0F541AC3A53600BDF53F /* The_NSMutableSet_class_declares_the_programmatic_interface_to_a_mutable__unordered_collection_of_distinct_objects___NSMutableSetDemoTests.m */,
+				018B0F521AC3A53600BDF53F /* Supporting Files */,
+			);
+			path = "The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemoTests";
+			sourceTree = "<group>";
+		};
+		018B0F521AC3A53600BDF53F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				018B0F531AC3A53600BDF53F /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		018B0F341AC3A53600BDF53F /* The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 018B0F581AC3A53600BDF53F /* Build configuration list for PBXNativeTarget "The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo" */;
+			buildPhases = (
+				018B0F311AC3A53600BDF53F /* Sources */,
+				018B0F321AC3A53600BDF53F /* Frameworks */,
+				018B0F331AC3A53600BDF53F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo";
+			productName = "The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo";
+			productReference = 018B0F351AC3A53600BDF53F /* The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo.app */;
+			productType = "com.apple.product-type.application";
+		};
+		018B0F4D1AC3A53600BDF53F /* The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemoTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 018B0F5B1AC3A53600BDF53F /* Build configuration list for PBXNativeTarget "The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemoTests" */;
+			buildPhases = (
+				018B0F4A1AC3A53600BDF53F /* Sources */,
+				018B0F4B1AC3A53600BDF53F /* Frameworks */,
+				018B0F4C1AC3A53600BDF53F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				018B0F501AC3A53600BDF53F /* PBXTargetDependency */,
+			);
+			name = "The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemoTests";
+			productName = "The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemoTests";
+			productReference = 018B0F4E1AC3A53600BDF53F /* The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemoTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		018B0F2D1AC3A53600BDF53F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0620;
+				ORGANIZATIONNAME = jfl913;
+				TargetAttributes = {
+					018B0F341AC3A53600BDF53F = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					018B0F4D1AC3A53600BDF53F = {
+						CreatedOnToolsVersion = 6.2;
+						TestTargetID = 018B0F341AC3A53600BDF53F;
+					};
+				};
+			};
+			buildConfigurationList = 018B0F301AC3A53600BDF53F /* Build configuration list for PBXProject "The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 018B0F2C1AC3A53600BDF53F;
+			productRefGroup = 018B0F361AC3A53600BDF53F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				018B0F341AC3A53600BDF53F /* The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo */,
+				018B0F4D1AC3A53600BDF53F /* The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemoTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		018B0F331AC3A53600BDF53F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				018B0F441AC3A53600BDF53F /* Main.storyboard in Resources */,
+				018B0F491AC3A53600BDF53F /* LaunchScreen.xib in Resources */,
+				018B0F461AC3A53600BDF53F /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		018B0F4C1AC3A53600BDF53F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		018B0F311AC3A53600BDF53F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				018B0F411AC3A53600BDF53F /* ViewController.m in Sources */,
+				018B0F3E1AC3A53600BDF53F /* AppDelegate.m in Sources */,
+				018B0F3B1AC3A53600BDF53F /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		018B0F4A1AC3A53600BDF53F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				018B0F551AC3A53600BDF53F /* The_NSMutableSet_class_declares_the_programmatic_interface_to_a_mutable__unordered_collection_of_distinct_objects___NSMutableSetDemoTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		018B0F501AC3A53600BDF53F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 018B0F341AC3A53600BDF53F /* The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo */;
+			targetProxy = 018B0F4F1AC3A53600BDF53F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		018B0F421AC3A53600BDF53F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				018B0F431AC3A53600BDF53F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		018B0F471AC3A53600BDF53F /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				018B0F481AC3A53600BDF53F /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		018B0F561AC3A53600BDF53F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		018B0F571AC3A53600BDF53F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		018B0F591AC3A53600BDF53F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		018B0F5A1AC3A53600BDF53F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		018B0F5C1AC3A53600BDF53F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemoTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo.app/The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo";
+			};
+			name = Debug;
+		};
+		018B0F5D1AC3A53600BDF53F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemoTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo.app/The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		018B0F301AC3A53600BDF53F /* Build configuration list for PBXProject "The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				018B0F561AC3A53600BDF53F /* Debug */,
+				018B0F571AC3A53600BDF53F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		018B0F581AC3A53600BDF53F /* Build configuration list for PBXNativeTarget "The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				018B0F591AC3A53600BDF53F /* Debug */,
+				018B0F5A1AC3A53600BDF53F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		018B0F5B1AC3A53600BDF53F /* Build configuration list for PBXNativeTarget "The NSMutableSet class declares the programmatic interface to a mutable, unordered collection of distinct objects.  NSMutableSetDemoTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				018B0F5C1AC3A53600BDF53F /* Debug */,
+				018B0F5D1AC3A53600BDF53F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 018B0F2D1AC3A53600BDF53F /* Project object */;
+}
